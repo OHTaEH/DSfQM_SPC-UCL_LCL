@@ -1,5 +1,5 @@
 > rm(list=ls())
-> data2 = read_excel("/Users/ot/R_DSfQM/spc/Uniformity_Data.xlsx")
+> data2 = read_excel("/Users/R_DSfQM/spc/Uniformity_Data.xlsx")
                                                                                                                                                           
 > data2 = as.data.frame(data2)
 > head(data2)
